@@ -1,86 +1,44 @@
-# Vanilla Motion
+# 🚀 A Better Minecraft Experience
 
-> *Minecraft, just smoother.*
+Looking for a smoother Minecraft experience without losing the feeling of vanilla Minecraft?
 
-A lightweight **Vanilla+** modpack for **Minecraft 1.21.11 (Fabric)** that improves performance, adds subtle animations, and includes carefully selected quality-of-life features while preserving the original vanilla experience.
+This modpack is built to improve **performance, stability, and overall gameplay smoothness** while keeping Minecraft familiar and enjoyable.
 
----
+## ⚡ What Does It Offer?
 
-## ✨ Features
+* 🚀 Improved performance and FPS
+* 🧠 Better resource management
+* 📉 Reduced frame-time issues
+* 🛠️ Improved stability
+* 🎨 Lightweight visual and UI improvements
+* ✨ Smooth and subtle animations
+* 🌿 A vanilla-friendly experience
+* 🎮 Great for both single-player and multiplayer
 
-* ⚡ High FPS optimization with modern Fabric performance mods.
-* 🎨 Smooth GUI, inventory, chat, and hotbar animations.
-* 🌿 Vanilla-friendly visuals with dynamic lighting and animation support.
-* 🗺️ Built-in minimap and world map.
-* 📦 Improved inventory and item tooltips.
-* 🎤 Multiplayer-ready with voice chat support.
-* 💚 Designed to feel like vanilla — just cleaner and smoother.
+## 🌿 Vanilla, But Better
 
----
+The goal isn't to completely change Minecraft.
 
-## 🚀 Performance
+Instead, this modpack focuses on making the game **feel smoother, cleaner, and more enjoyable** while keeping the original gameplay and visual identity intact.
 
-Vanilla Motion includes a carefully selected set of optimization mods such as:
+## 🎯 Made For Performance
 
-* Sodium
-* Lithium
-* FerriteCore
-* C2ME
-* Entity Culling
-* ImmediatelyFast
-* Debugify
-* Sodium Extra
+Whether you're playing on a powerful gaming PC or a more modest system, the modpack is designed to help you get a **more consistent and enjoyable experience**.
 
-The modpack is optimized for smooth gameplay without sacrificing the vanilla feel.
+Every addition is chosen with performance and compatibility in mind.
 
----
+## 📦 Lightweight & Simple
 
-## 🎮 Quality of Life
-
-Enjoy small improvements that make Minecraft more enjoyable without changing gameplay:
-
-* JEI
-* Jade
-* AppleSkin
-* Mouse Tweaks
-* Xaero's Minimap
-* Xaero's World Map
-* Shulker Box Tooltip
-* Mod Menu
+No unnecessary gameplay changes.
+No complicated setup.
+Just a collection of improvements designed to make Minecraft run and feel better.
 
 ---
 
-## 🌟 Visual Enhancements
+### ❤️ Enjoy the Game
 
-Vanilla Motion keeps Minecraft looking familiar while adding subtle improvements:
+Thanks for checking out the project!
 
-* Not Enough Animations
-* EMF & ETF support
-* LambDynamicLights
-* Smooth GUI animations
-* Optional **I Like Vanilla** shader support
+If you enjoy the modpack, consider supporting the project by leaving feedback, reporting bugs, and sharing it with other players.
 
----
-
-## 📋 Compatibility
-
-| **Minecraft** | **Loader** | **Environment** |
-| ------------- | ---------- | --------------- |
-| **1.21.11**   | **Fabric** | **Client-side** |
-
----
-
-## 📦 Included
-
-* 30+ carefully selected Fabric mods.
-* Pre-configured settings for the best experience.
-* Shader-ready.
-* Vanilla resource pack support.
-
----
-
-## ❤️ Philosophy
-
-Vanilla Motion doesn't try to reinvent Minecraft.
-
-It simply makes vanilla Minecraft **faster, smoother, and more enjoyable** while keeping the game you already love.
+**Play more. Lag less. Enjoy Minecraft. 🚀**
